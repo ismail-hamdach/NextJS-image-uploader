@@ -65,3 +65,4 @@ pnpm dev
 ###
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kevin-sg/nextjs-image-uploader) ![GitHub contributors](https://img.shields.io/github/contributors/kevin-sg/nextjs-image-uploader) ![GitHub issues](https://img.shields.io/github/issues/kevin-sg/nextjs-image-uploader) ![GitHub repo size](https://img.shields.io/github/repo-size/kevin-sg/nextjs-image-uploader)
+"# NextJS-image-uploader" 
